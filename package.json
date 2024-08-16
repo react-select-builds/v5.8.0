@@ -1,0 +1,13 @@
+{
+	"name": "react-select-builds",
+	"type": "module",
+	"version": "5.8.0",
+	"description": "This package holds a bundle of react-select lib to import from browser, as official releases do not include a distribution that is not dependent on nodejs execution environment, i.e. are not usable without webpack or other bundler",
+	"devDependencies": {
+		"@emotion/react": "^11.11.4",
+		"@emotion/styled": "^11.11.0",
+		"esbuild": "^0.23.0",
+		"esbuild-plugin-external-global": "^1.0.1",
+		"react-select": "5.8.0"
+	}
+}
