@@ -18,11 +18,11 @@ const options = [
 
 function YourAwesomeApp(props) {
     return React.createElement("main", {}, 
-	    <Select
+        <Select
             onChange={option => console.log("option selected", option)}
             options={options}
-		/>
-	);
+        />
+    );
 }
 
 ReactDOM.createRoot(document.getElementById("your-react-root"))
