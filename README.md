@@ -1,4 +1,4 @@
-You are here for the [`./dist/react-select.esm.min.js`](./dist/react-select.esm.min.js)
+You are here for the [`./dist/react-select.esm.min.js`](https://react-select-builds.github.io/v5.8.0/dist/react-select.esm.min.js)
 
 To import this build of `react-select` on your webpage:
 
